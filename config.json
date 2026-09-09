@@ -1,0 +1,8 @@
+{
+  "device id":"GD0GZ0GZ-P010-1000-0M20-190523121913",
+  "mqtt":{
+    "broker":"tcp:\/\/134.175.203.212:9001",
+    "username":"test2",
+    "password":"test2"
+  }
+}
